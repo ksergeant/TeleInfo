@@ -1,0 +1,304 @@
+# depslib dependency file v1.0
+1458060622 source:/home/kev/Documents/LinuxSuiviConso/Trame.cpp
+	"Trame.h"
+	<iostream>
+
+1454458110 
+
+1457925024 /home/kev/Documents/LinuxSuiviConso/Trame.h
+	<string>
+
+1458045103 source:/home/kev/Documents/LinuxSuiviConso/main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<cstddef>
+	<vector>
+	"Trame.h"
+
+1458832490 source:/root/Desktop/Linux/LinuxSuiviConso/Trame.cpp
+	"Trame.h"
+	<iostream>
+
+1458832490 /root/Desktop/Linux/LinuxSuiviConso/Trame.h
+	<string>
+
+1459352422 source:/root/Desktop/Linux/LinuxSuiviConso/main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<cstddef>
+	<vector>
+	"Trame.h"
+	<stdio.h>
+	"serialib.h"
+	<curl/curl.h>
+
+1348594018 .h>
+
+1458298562 source:/root/Desktop/Linux/LinuxSuiviConso/serialib.cpp
+	"serialib.h"
+
+1458302162 h"
+
+1348590418 /root/Desktop/Linux/LinuxSuiviConso/serialib.h
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1454597370 /root/Desktop/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1454600970 -gcc.h"
+
+1454923704 /root/Desktop/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/curlver.h
+
+1454923704 /root/Desktop/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1454927304 t.h>
+
+1454540776 /root/Desktop/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/curlrules.h
+
+1454454510 /root/Desktop/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/easy.h
+
+1454454510 /root/Desktop/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/multi.h
+	"curl.h"
+
+1454454510 /root/Desktop/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/typecheck-gcc.h
+
+1462839457 source:c:\users\kévin\desktop\linux\linuxsuiviconso\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<cstddef>
+	<vector>
+	"Trame.h"
+	<stdio.h>
+	"serialib.h"
+	<curl/curl.h>
+
+1462838543 c:\users\kévin\desktop\linux\linuxsuiviconso\trame.h
+	<string>
+
+1348594018 c:\users\kévin\desktop\linux\linuxsuiviconso\serialib.h
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1454600970 c:\users\kévin\desktop\linux\linuxsuiviconso\curl-7.47.1\include\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1454927304 c:\users\kévin\desktop\linux\linuxsuiviconso\curl-7.47.1\include\curl\curlver.h
+
+1454927304 c:\users\kévin\desktop\linux\linuxsuiviconso\curl-7.47.1\include\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1454544376 c:\users\kévin\desktop\linux\linuxsuiviconso\curl-7.47.1\include\curl\curlrules.h
+
+1454458110 c:\users\kévin\desktop\linux\linuxsuiviconso\curl-7.47.1\include\curl\easy.h
+
+1454458110 c:\users\kévin\desktop\linux\linuxsuiviconso\curl-7.47.1\include\curl\multi.h
+	"curl.h"
+
+1454458110 c:\users\kévin\desktop\linux\linuxsuiviconso\curl-7.47.1\include\curl\typecheck-gcc.h
+
+1458302162 source:c:\users\kévin\desktop\linux\linuxsuiviconso\serialib.cpp
+	"serialib.h"
+
+1458836090 source:c:\users\kévin\desktop\linux\linuxsuiviconso\trame.cpp
+	"Trame.h"
+	<iostream>
+
+1458298562 source:/home/pi/Documents/Projet Energie/Linux/LinuxSuiviConso/serialib.cpp
+	"serialib.h"
+
+1348590418 /home/pi/Documents/Projet Energie/Linux/LinuxSuiviConso/serialib.h
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1535985433 source:/home/pi/Documents/Projet Energie/Linux/LinuxSuiviConso/main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<cstddef>
+	<vector>
+	"Trame.h"
+	<stdio.h>
+	"serialib.h"
+	<curl/curl.h>
+
+1462834944 /home/pi/Documents/Projet Energie/Linux/LinuxSuiviConso/Trame.h
+	<string>
+
+1454597370 /home/pi/Documents/Projet Energie/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1454923704 /home/pi/Documents/Projet Energie/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/curlver.h
+
+1454923704 /home/pi/Documents/Projet Energie/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1454540776 /home/pi/Documents/Projet Energie/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/curlrules.h
+
+1454454510 /home/pi/Documents/Projet Energie/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/easy.h
+
+1454454510 /home/pi/Documents/Projet Energie/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/multi.h
+	"curl.h"
+
+1454454510 /home/pi/Documents/Projet Energie/Linux/LinuxSuiviConso/curl-7.47.1/include/curl/typecheck-gcc.h
+
+1536058229 source:/home/pi/Desktop/LinuxSuiviConso/main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<cstddef>
+	<vector>
+	"Trame.h"
+	<stdio.h>
+	"serialib.h"
+	<curl/curl.h>
+
+1536058616 /home/pi/Desktop/LinuxSuiviConso/Trame.h
+	<string>
+
+1348590418 /home/pi/Desktop/LinuxSuiviConso/serialib.h
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1454597370 /home/pi/Desktop/LinuxSuiviConso/curl-7.47.1/include/curl/curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1454923704 /home/pi/Desktop/LinuxSuiviConso/curl-7.47.1/include/curl/curlver.h
+
+1454923704 /home/pi/Desktop/LinuxSuiviConso/curl-7.47.1/include/curl/curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1454540776 /home/pi/Desktop/LinuxSuiviConso/curl-7.47.1/include/curl/curlrules.h
+
+1454454510 /home/pi/Desktop/LinuxSuiviConso/curl-7.47.1/include/curl/easy.h
+
+1454454510 /home/pi/Desktop/LinuxSuiviConso/curl-7.47.1/include/curl/multi.h
+	"curl.h"
+
+1454454510 /home/pi/Desktop/LinuxSuiviConso/curl-7.47.1/include/curl/typecheck-gcc.h
+
+1535998270 source:/home/pi/Desktop/LinuxSuiviConso/serialib.cpp
+	"serialib.h"
+
+1535991742 source:/home/pi/Desktop/LinuxSuiviConso/Trame.cpp
+	"Trame.h"
+	<iostream>
+
